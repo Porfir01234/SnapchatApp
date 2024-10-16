@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  SnapchatClone
 //
-//  Created by Jazmin on 16/10/24.
+//  Created by Porfirio on 16/10/24.
 //
 
 import UIKit
